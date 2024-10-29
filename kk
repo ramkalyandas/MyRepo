@@ -1,2 +1,1 @@
-hello kalyan 
-how are you 
+hello kalyan , welcome to devops course 
